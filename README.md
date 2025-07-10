@@ -1,6 +1,6 @@
 ```markdown
-👋 Hi, I’m @outisdz  
-💻 I code in C++ and Python  
-🐧 Linux enthusiast & proud Arch user  
-🚀 Always exploring new tech and open source  
+👋 Hi, I’m @outisdz
+💻 I write code in C++ and Python
+🐧 Linux enthusiast | Arch Linux user
+🚀 Passionate about open source and emerging tech
 ```
